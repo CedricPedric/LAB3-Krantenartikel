@@ -7,17 +7,17 @@ body {
 }
 
 #vloot1{
-    /* float: left; */
+    float: left;
 }
 
 #vloot2{
     float: right;
 }
 #vloot3{
-    /* float: bottom; */
-    bottom: 0px;
+    float: left;
+    bottom: 10px;
     
 }
 .container {
-    padding:40px;
+    padding: 35px;
 }
